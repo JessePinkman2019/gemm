@@ -11,9 +11,9 @@ CMakeFiles/main.x.dir/home/lixiang/code/gemm/source/utils/compare_matrices.cpp.o
  /home/lixiang/code/gemm/source/utils/public.h
 CMakeFiles/main.x.dir/home/lixiang/code/gemm/source/utils/correct_gemm.cpp.o
  ../../source/backend/arm/kernel/gemm.h
- ../../source/backend/arm/kernel/public.h
  /home/lixiang/code/gemm/source/utils/correct_gemm.cpp
  /home/lixiang/code/gemm/source/utils/correct_gemm.h
+ /home/lixiang/code/gemm/source/utils/public.h
 CMakeFiles/main.x.dir/home/lixiang/code/gemm/source/utils/dclock.cpp.o
  /home/lixiang/code/gemm/source/utils/dclock.cpp
  /home/lixiang/code/gemm/source/utils/dclock.h
@@ -28,6 +28,7 @@ CMakeFiles/main.x.dir/home/lixiang/code/gemm/source/utils/random_matrix.cpp.o
  /home/lixiang/code/gemm/source/utils/random_matrix.h
 CMakeFiles/main.x.dir/main.cpp.o
  /home/lixiang/code/gemm/source/backend/arm/kernel/gemm.h
+ /home/lixiang/code/gemm/source/backend/arm/kernel/public.h
  /home/lixiang/code/gemm/source/utils/compare_matrices.h
  /home/lixiang/code/gemm/source/utils/correct_gemm.h
  /home/lixiang/code/gemm/source/utils/dclock.h
