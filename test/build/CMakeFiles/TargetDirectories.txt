@@ -1,0 +1,5 @@
+/home/lixiang/code/gemm/test/build/CMakeFiles/rebuild_cache.dir
+/home/lixiang/code/gemm/test/build/CMakeFiles/edit_cache.dir
+/home/lixiang/code/gemm/test/build/CMakeFiles/clean_all.dir
+/home/lixiang/code/gemm/test/build/CMakeFiles/clean_up.dir
+/home/lixiang/code/gemm/test/build/CMakeFiles/main.x.dir
